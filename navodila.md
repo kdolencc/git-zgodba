@@ -1,4 +1,4 @@
-# Nadaljnja navodila
+# Nadaljnja 42 navodila
 
 1. Sedaj imate lokalno kopijo repozitorija.
 2. Poženite skripto, da boste lahko preigrali zgodbo:
